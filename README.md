@@ -1,1 +1,2 @@
-# Online-timetable-generation-system
+# Automatic Timetable Generator
+Web Application to Automatically Generate Timetable.
